@@ -1,0 +1,11 @@
+create database UdemyDapperDb
+go
+use UdemyDapperDb
+go
+create table Products(
+Id int identity(1,1),
+Name nvarchar(50),
+Price decimal(18,3),
+Stock int,
+primary key(Id)
+)

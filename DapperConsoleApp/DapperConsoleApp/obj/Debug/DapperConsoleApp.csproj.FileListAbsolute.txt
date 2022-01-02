@@ -1,0 +1,13 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\bin\Debug\DapperConsoleApp.exe.config
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\bin\Debug\DapperConsoleApp.exe
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\bin\Debug\DapperConsoleApp.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\obj\Debug\DapperConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\obj\Debug\DapperConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\obj\Debug\DapperConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\obj\Debug\DapperConsoleApp.csproj.CopyComplete
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\obj\Debug\DapperConsoleApp.exe
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\obj\Debug\DapperConsoleApp.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\bin\Debug\Dapper.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Dapper\DapperConsoleApp\DapperConsoleApp\bin\Debug\Dapper.xml
